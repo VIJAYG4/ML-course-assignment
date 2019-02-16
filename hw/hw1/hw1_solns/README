@@ -1,0 +1,4 @@
+RUN spam_classifier.py
+______________________________
+
+Please make sure that the spamtrain.csv and spamtest.csv files are in the same directory as spam_classifier.py
