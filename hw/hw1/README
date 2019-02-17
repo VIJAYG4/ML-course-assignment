@@ -1,0 +1,14 @@
+Gaussian Naive Bayes based Spam Classifier
+________________________________________________
+A simple model to classify emails as spam or not spam implemented using only Numpy
+
+Dataset details:
+__________________
+The dataset consists of 3000 samples in training set and 200 samples in the test set. spambase1.txt contains the description about the attributes used for this problem. 
+
+How to Run
+______________________________
+Run spamClassifier.py 
+Please make sure that the spambasetrain.csv and spambasetest.csv are in the same directory as spamClassifier.py
+
+
